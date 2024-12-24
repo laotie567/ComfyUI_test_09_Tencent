@@ -1,0 +1,13 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+requests==2.31.0
+pydantic==2.5.2
+python-multipart==0.0.6
+
+# 测试依赖
+pytest==7.4.3
+pytest-asyncio==0.21.1
+aiohttp==3.9.1
+httpx==0.25.2
+pytest-cov==4.1.0 
